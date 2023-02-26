@@ -1,6 +1,6 @@
 <template>
-  <Header/>
-    <RouterView/>
+  <!-- <Header/>
+    <RouterView/> -->
     <h1>About me page</h1>
 </template>
 <script>

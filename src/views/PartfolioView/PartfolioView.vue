@@ -1,6 +1,6 @@
 <template>
-  <Header />
-  <RouterView />
+  <!-- <Header />
+  <RouterView /> -->
   <p>PartfolioView</p>
 </template>
 <script>

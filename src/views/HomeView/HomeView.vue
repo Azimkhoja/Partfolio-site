@@ -1,7 +1,7 @@
 <template>
   <div>
-    <Header/>
-    <RouterView/>
+    <!-- <Header/>
+    <RouterView/> -->
     <h1>Home page</h1>
   </div>
 </template>

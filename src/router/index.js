@@ -24,6 +24,11 @@ const router = createRouter({
       name: "SkillsView",
       component: () => import("../views/SkillsView/SkillsView.vue"),
     },
+    {
+      path: "/cotact",
+      name: "ContactView",
+      component: () => import("../views/ContactView/ContactView.vue"),
+    },
   ],
 });
 
