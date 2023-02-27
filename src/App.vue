@@ -1,7 +1,7 @@
 <template>
   <div>
     <Header />
-    <section class="header bg-green-200">
+    <section class="header">
       <div class="container mx-auto">
         <RouterView />
       </div>

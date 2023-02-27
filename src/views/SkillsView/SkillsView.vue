@@ -1,6 +1,5 @@
 <template>
-    <!-- <Header />
-    <RouterView /> -->
+    
     <h1>Skills page loading.</h1>
 </template>
 <script>
