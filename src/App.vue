@@ -2,7 +2,7 @@
   <div>
     <Header />
     <section class="header">
-      <div class="container mx-auto">
+      <div>
         <RouterView />
       </div>
     </section>
