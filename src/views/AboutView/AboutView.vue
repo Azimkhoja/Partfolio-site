@@ -5,7 +5,7 @@
         class="aboutn_me flex justify-between items-center font-[Roboto] gap-[114px]"
       >
         <div class="left">
-          <img src="@/assets/About Me.png" alt="man photo" />
+          <img src="../../../public/About Me.png" alt="man photo" />
         </div>
         <div class="right">
           <h2 class="text-3xl font-medium">About</h2>

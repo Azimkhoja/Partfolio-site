@@ -10,11 +10,11 @@
           class="feedback flex flex-col p-7 justify-between w-[490px] h-[350px]"
         >
           <ul class="flex gap-1">
-            <li><img src="@/assets/star.svg" alt="" /></li>
-            <li><img src="@/assets/star.svg" alt="" /></li>
-            <li><img src="@/assets/star.svg" alt="" /></li>
-            <li><img src="@/assets/star.svg" alt="" /></li>
-            <li><img src="@/assets/star.svg" alt="" /></li>
+            <li><img src="../../../public/star.svg" alt="star svg" /></li>
+            <li><img src="../../../public/star.svg" alt="star svg" /></li>
+            <li><img src="../../../public/star.svg" alt="star svg" /></li>
+            <li><img src="../../../public/star.svg" alt="star svg" /></li>
+            <li><img src="../../../public/star.svg" alt="star svg" /></li>
           </ul>
           <p class="my-10 text-xl w-[446px] h-[96px] leading-8">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
@@ -22,7 +22,7 @@
             viverra.
           </p>
           <div class="flex items-center">
-            <img src="@/assets/Avatar Image-1.png" alt="circle photo" />
+            <img src="../../../public/Avatar Image-1.png" alt="circle photo" />
             <div class="flex flex-col ml-[22px]">
               <p class="text-lg font-medium">Dianne Russell</p>
               <p class="text-lg">Starbucks</p>
@@ -34,11 +34,11 @@
           class="feedback flex flex-col justify-between p-7 w-[490px] h-[350px]"
         >
           <ul class="flex gap-1">
-            <li><img src="@/assets/star.svg" alt="" /></li>
-            <li><img src="@/assets/star.svg" alt="" /></li>
-            <li><img src="@/assets/star.svg" alt="" /></li>
-            <li><img src="@/assets/star.svg" alt="" /></li>
-            <li><img src="@/assets/star.svg" alt="" /></li>
+            <li><img src="../../../public/star.svg" alt="star svg" /></li>
+            <li><img src="../../../public/star.svg" alt="star svg" /></li>
+            <li><img src="../../../public/star.svg" alt="star svg" /></li>
+            <li><img src="../../../public/star.svg" alt="star svg" /></li>
+            <li><img src="../../../public/star.svg" alt="star svg" /></li>
           </ul>
           <p class="my-10 text-xl w-[446px] h-[96px] leading-8">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
@@ -46,7 +46,7 @@
             viverra.
           </p>
           <div class="flex items-center">
-            <img src="@/assets/Avatar Image-2.png" alt="circle photo" />
+            <img src="../../../public/Avatar Image-2.png" alt="circle photo" />
             <div class="flex flex-col ml-[22px]">
               <p class="text-lg font-medium">Dianne Russell</p>
               <p class="text-lg">Starbucks</p>
@@ -58,11 +58,11 @@
           class="feedback flex flex-col justify-between p-7 w-[490px] h-[350px]"
         >
           <ul class="flex gap-1">
-            <li><img src="@/assets/star.svg" alt="" /></li>
-            <li><img src="@/assets/star.svg" alt="" /></li>
-            <li><img src="@/assets/star.svg" alt="" /></li>
-            <li><img src="@/assets/star.svg" alt="" /></li>
-            <li><img src="@/assets/star.svg" alt="" /></li>
+            <li><img src="../../../public/star.svg" alt="star svg " /></li>
+            <li><img src="../../../public/star.svg" alt="star svg" /></li>
+            <li><img src="../../../public/star.svg" alt="star svg" /></li>
+            <li><img src="../../../public/star.svg" alt="star svg" /></li>
+            <li><img src="../../../public/star.svg" alt="star svg" /></li>
           </ul>
           <p class="my-10 text-xl w-[446px] h-[96px] leading-8">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
@@ -70,7 +70,7 @@
             viverra.
           </p>
           <div class="flex items-center">
-            <img src="@/assets/Avatar Image-3.png" alt="circle photo" />
+            <img src="../../../public/Avatar Image-3.png" alt="circle photo" />
             <div class="flex flex-col ml-[22px]">
               <p class="text-lg font-medium">Dianne Russell</p>
               <p class="text-lg">Starbucks</p>

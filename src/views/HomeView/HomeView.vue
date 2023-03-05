@@ -23,7 +23,7 @@
           </button>
         </div>
         <div class="home__right w-1/2 flex items-center">
-          <img src="@/assets/mainimg.png" alt="man foto " />
+          <img src="../../../public/mainimg.png" alt="man foto " />
         </div>
       </div>
     </div>
