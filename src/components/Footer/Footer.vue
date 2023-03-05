@@ -2,7 +2,7 @@
   <footer class="bg-[#F5FCFF] py-20">
     <div class="container mx-auto">
       <nav class="flex justify-between items-center mb-[80px] h-[70px]">
-        <img alt="logo" class="" src="../../../public/Logo.svg" />
+        <img alt="logo" class="" src="@/img/Logo.svg" />
         <ul class="flex justify-between items-center w-[564px] text-xl">
           <li>
             <RouterLink to="/">Home</RouterLink>
@@ -27,28 +27,28 @@
           <a href="https://t.me/Azimxoja_A">
             <img
               class="hover:scale-110 duration-150 hover:bg-[#bfe5f5] hover:rounded-lg"
-              src="../../../public/Facebook.svg"
+              src="@/img/Facebook.svg"
               alt="logo facebook"
             />
           </a>
           <a href="https://t.me/Azimxoja_A">
             <img
               class="hover:scale-110 duration-150 hover:bg-[#bfe5f5] hover:rounded-lg"
-              src="../../../public/Instagram.svg"
+              src="@/img/Instagram.svg"
               alt="logo instagram"
             />
           </a>
           <a href="https://t.me/Azimxoja_A">
             <img
               class="hover:scale-110 duration-150 hover:bg-[#bfe5f5] hover:rounded-lg"
-              src="../../../public/Twitter.svg"
+              src="@/img/Twitter.svg"
               alt="logo twitter"
             />
           </a>
           <a href="https://t.me/Azimxoja_A">
             <img
               class="hover:scale-110 duration-150 hover:bg-[#bfe5f5] hover:rounded-lg"
-              src="../../../public/LinkedIn.svg"
+              src="@/img/LinkedIn.svg"
               alt="logo linkedin"
             />
           </a>

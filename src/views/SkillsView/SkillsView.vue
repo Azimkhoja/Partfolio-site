@@ -10,7 +10,7 @@
           class="card flex flex-col items-start p-8 bg-[#F5FCFF] w-[405px] h-[370px] rounded-[10px] shadow-xl hover:border-b-[#5E3BEE]"
         >
           <span class="bg-white p-4 rounded-[10px] shadow-2xl mb-8">
-            <img src="../../../public/product-chain 1.svg" alt="chain logo" />
+            <img src="@/img/product-chain 1.svg" alt="chain logo" />
           </span>
           <h2 class="text-[28px] font-bold mb-[21px]">Strategy & Direction</h2>
           <p class="text-[22px] leading-8">
@@ -23,7 +23,7 @@
           class="card flex flex-col items-start p-8 bg-[#F5FCFF] w-[405px] h-[370px] rounded-[10px] shadow-xl hover:border-b-[#5E3BEE]"
         >
           <span class="bg-white p-4 rounded-[10px] shadow-2xl mb-8">
-            <img src="../../../public/tag 1.svg" alt="baijik logo" />
+            <img src="@/img/tag 1.svg" alt="baijik logo" />
           </span>
           <h2 class="text-[28px] font-bold mb-[21px]">Branding & Logo</h2>
           <p class="text-[22px] leading-8">
@@ -36,7 +36,7 @@
           class="card flex flex-col items-start p-8 bg-[#F5FCFF] w-[405px] h-[370px] rounded-[10px] shadow-xl hover:border-b-[#5E3BEE]"
         >
           <span class="bg-white p-4 rounded-[10px] shadow-2xl mb-8">
-            <img src="../../../public/feather-pen 1.svg" alt="chain logo" />
+            <img src="@/img/feather-pen 1.svg" alt="chain logo" />
           </span>
           <h2 class="text-[28px] font-bold mb-[21px]">UI & UX Design</h2>
           <p class="text-[22px] leading-8">
@@ -49,7 +49,7 @@
           class="card flex flex-col items-start p-8 bg-[#F5FCFF] w-[405px] h-[370px] rounded-[10px] shadow-xl hover:border-b-[#5E3BEE]"
         >
           <span class="bg-white p-4 rounded-[10px] shadow-2xl mb-8">
-            <img src="../../../public/brackets.svg" alt="chain logo" />
+            <img src="@/img/brackets.svg" alt="chain logo" />
           </span>
           <h2 class="text-[26px] font-bold mb-[21px]">Webflow Development</h2>
           <p class="text-[22px] leading-8">
