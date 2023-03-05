@@ -10,7 +10,7 @@
           <li><RouterLink to="/partfolio">Partfolio</RouterLink></li>
         </ul>
         <span class="contact p-3 rounded-md text-xl">
-          <p>Contact Me</p>
+         <RouterLink to="/contact"><p>Contact Me</p></RouterLink> 
         </span>
       </nav>
     </div>

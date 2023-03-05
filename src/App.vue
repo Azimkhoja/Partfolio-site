@@ -1,7 +1,7 @@
 <template>
   <div>
     <Header />
-    <section class="header">
+    <section>
       <div>
         <RouterView />
       </div>
