@@ -2,7 +2,7 @@
   <header class="font-[Roboto] py-6 shadow-lg">
     <div class="container mx-auto">
       <nav class="flex justify-between items-center h-[70px]">
-        <img alt="logo" class="" src="../../images/Logo.svg" />
+        <img alt="logo" class="" src="@/assets/Logo.svg" />
         <ul class="flex justify-between items-center w-[504px] text-xl">
           <li><RouterLink to="/">Home</RouterLink></li>
           <li><RouterLink to="/skills">Skills</RouterLink></li>
