@@ -1,16 +1,17 @@
 <template>
   <header class="font-[Roboto] py-6 shadow-lg">
     <div class="container mx-auto">
-      <nav class="flex justify-between items-center  h-[70px]">
+      <nav class="flex justify-between items-center h-[70px]">
         <img alt="logo" class="" src="../../images/Logo.svg" />
-        <ul class="flex justify-between items-center w-[484px] text-xl">
+        <ul class="flex justify-between items-center w-[504px] text-xl">
           <li><RouterLink to="/">Home</RouterLink></li>
           <li><RouterLink to="/skills">Skills</RouterLink></li>
           <li><RouterLink to="/aboutme">About me</RouterLink></li>
           <li><RouterLink to="/partfolio">Partfolio</RouterLink></li>
+          <li><RouterLink to="/comments">Comments</RouterLink></li>
         </ul>
         <span class="contact p-3 rounded-md text-xl">
-         <RouterLink to="/contact"><p>Contact Me</p></RouterLink> 
+          <RouterLink to="/contact"><p>Contact Me</p></RouterLink>
         </span>
       </nav>
     </div>
@@ -37,6 +38,6 @@ export default {
 .contact:hover {
   background-color: #5e3bee !important;
   color: white !important;
-  transition-duration: 500ms
+  transition-duration: 500ms;
 }
 </style>

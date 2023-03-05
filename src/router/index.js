@@ -29,6 +29,11 @@ const router = createRouter({
       name: "ContactView",
       component: () => import("../views/ContactView/ContactView.vue"),
     },
+    {
+      path: "/comments",
+      name: "CommentView",
+      component: () => import("../views/CommentView/CommentView.vue"),
+    },
   ],
 });
 
