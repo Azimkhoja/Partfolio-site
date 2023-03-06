@@ -22,7 +22,7 @@
             viverra.
           </p>
           <div class="flex items-center">
-            <img src="@/img/Avatar Image-1.png" alt="circle photo" />
+            <img src="@/img/AvatarImage-1.png" alt="circle photo" />
             <div class="flex flex-col ml-[22px]">
               <p class="text-lg font-medium">Dianne Russell</p>
               <p class="text-lg">Starbucks</p>
@@ -46,7 +46,7 @@
             viverra.
           </p>
           <div class="flex items-center">
-            <img src="@/img/Avatar Image-2.png" alt="circle photo" />
+            <img src="@/img/AvatarImage-2.png" alt="circle photo" />
             <div class="flex flex-col ml-[22px]">
               <p class="text-lg font-medium">Dianne Russell</p>
               <p class="text-lg">Starbucks</p>
@@ -70,7 +70,7 @@
             viverra.
           </p>
           <div class="flex items-center">
-            <img src="@/img/Avatar Image-3.png" alt="circle photo" />
+            <img src="@/img/AvatarImage-3.png" alt="circle photo" />
             <div class="flex flex-col ml-[22px]">
               <p class="text-lg font-medium">Dianne Russell</p>
               <p class="text-lg">Starbucks</p>
